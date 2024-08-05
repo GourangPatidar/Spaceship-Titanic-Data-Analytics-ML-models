@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ```bash
 git clone https://github.com/GourangPatidar/Spaceship-Titanic-Data-Analytics-ML-models.git
-cd Spaceship-Titanic
+cd Spaceship-Titanic-Data-Analytics-ML-models
 ```
 
 2. **Open the Jupyter Notebook:**
