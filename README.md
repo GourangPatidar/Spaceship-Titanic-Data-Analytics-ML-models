@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/Spaceship-Titanic.git
+git clone https://github.com/GourangPatidar/Spaceship-Titanic-Data-Analytics-ML-models.git
 cd Spaceship-Titanic
 ```
 
