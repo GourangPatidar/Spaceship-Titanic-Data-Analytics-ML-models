@@ -64,7 +64,7 @@ jupyter notebook
 ```
 
 3. **Run the notebook:**
-   - Open `Spaceship_Titanic.ipynb` and run the cells to execute the analysis and modeling steps.
+   - Open `spaceship_titanic_a_complete_guide_.ipynb` and run the cells to execute the analysis and modeling steps.
 
 ## Further Exploration
 
@@ -78,17 +78,7 @@ This project serves as a foundation for further exploration of data analysis and
 
 This README provides a general overview. Specific details and functionalities may vary depending on the contents of the Jupyter Notebook.
 
-## Repository Structure
 
-```plaintext
-.
-├── data                        # Folder containing the dataset
-├── notebooks                   # Jupyter notebooks for data analysis and modeling
-├── scripts                     # Python scripts for various tasks
-├── README.md                   # Project documentation
-├── requirements.txt            # List of dependencies
-└── .gitignore                  # Git ignore file
-```
 
 ## Contributing
 
@@ -111,5 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for their invaluable contributions.
 
 ---
-
-Feel free to adjust the content as per your specific requirements.
